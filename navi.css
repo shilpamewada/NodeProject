@@ -54,13 +54,11 @@ header .navbar ul li ul{
     height: 370px;
     width: 335px;
     background-color: rgb(153, 169, 163);
-    margin: 30px;
+    margin: 60px;
     text-align: center;
-    /* margin-top: 200px; */
+    margin-top: 200px;
     padding: 100px;
     flex-wrap: wrap;
-    display: inline-block;
-    position: relative;
 }
 #container{
 
@@ -68,13 +66,6 @@ header .navbar ul li ul{
     align-items: center;
     min-height: 100px;
     flex-wrap: wrap;
-    /* display: inline; */
+    display: inline;
     text-align: center;
-    display: inline-block;
-    position: relative;
-}
-#container #first{
-    margin-top: 200px;
-  
-    
 }
